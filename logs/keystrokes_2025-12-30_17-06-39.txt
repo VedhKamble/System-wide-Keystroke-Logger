@@ -1,0 +1,1 @@
+('Key.caps_lock', 'i', 'r', 'c', 't', 'c', 'Key.enter', 'Key.caps_lock', 'j', 'i', 'm', 'i', 'y', 'o', 'u', 'r', 'Key.space', 'a', 'r', 'e', 'Key.space', 'h', 'a', 'c', 'k', 'e', 'd', 'Key.esc')

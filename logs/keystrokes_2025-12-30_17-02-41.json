@@ -1,0 +1,166 @@
+[
+  {
+    "event": "key_pressed",
+    "key": "Key.shift"
+  },
+  {
+    "event": "key_held",
+    "key": "W"
+  },
+  {
+    "event": "key_released",
+    "key": "W"
+  },
+  {
+    "event": "key_pressed",
+    "key": "h"
+  },
+  {
+    "event": "key_released",
+    "key": "h"
+  },
+  {
+    "event": "key_pressed",
+    "key": "a"
+  },
+  {
+    "event": "key_held",
+    "key": "t"
+  },
+  {
+    "event": "key_released",
+    "key": "a"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_pressed",
+    "key": "i"
+  },
+  {
+    "event": "key_released",
+    "key": "i"
+  },
+  {
+    "event": "key_pressed",
+    "key": "s"
+  },
+  {
+    "event": "key_released",
+    "key": "s"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.shift_r"
+  },
+  {
+    "event": "key_held",
+    "key": "K"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.shift_r"
+  },
+  {
+    "event": "key_pressed",
+    "key": "e"
+  },
+  {
+    "event": "key_released",
+    "key": "e"
+  },
+  {
+    "event": "key_pressed",
+    "key": "y"
+  },
+  {
+    "event": "key_released",
+    "key": "y"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_pressed",
+    "key": "l"
+  },
+  {
+    "event": "key_released",
+    "key": "l"
+  },
+  {
+    "event": "key_pressed",
+    "key": "o"
+  },
+  {
+    "event": "key_released",
+    "key": "o"
+  },
+  {
+    "event": "key_pressed",
+    "key": "o"
+  },
+  {
+    "event": "key_released",
+    "key": "o"
+  },
+  {
+    "event": "key_pressed",
+    "key": "g"
+  },
+  {
+    "event": "key_released",
+    "key": "g"
+  },
+  {
+    "event": "key_pressed",
+    "key": "e"
+  },
+  {
+    "event": "key_released",
+    "key": "e"
+  },
+  {
+    "event": "key_pressed",
+    "key": "r"
+  },
+  {
+    "event": "key_released",
+    "key": "r"
+  },
+  {
+    "event": "key_pressed",
+    "key": "`"
+  },
+  {
+    "event": "key_released",
+    "key": "`"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.esc"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.esc"
+  }
+]

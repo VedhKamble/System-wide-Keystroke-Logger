@@ -1,0 +1,226 @@
+[
+  {
+    "event": "key_pressed",
+    "key": "Key.caps_lock"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.caps_lock"
+  },
+  {
+    "event": "key_pressed",
+    "key": "i"
+  },
+  {
+    "event": "key_released",
+    "key": "i"
+  },
+  {
+    "event": "key_pressed",
+    "key": "r"
+  },
+  {
+    "event": "key_released",
+    "key": "r"
+  },
+  {
+    "event": "key_pressed",
+    "key": "c"
+  },
+  {
+    "event": "key_released",
+    "key": "c"
+  },
+  {
+    "event": "key_pressed",
+    "key": "t"
+  },
+  {
+    "event": "key_released",
+    "key": "t"
+  },
+  {
+    "event": "key_pressed",
+    "key": "c"
+  },
+  {
+    "event": "key_released",
+    "key": "c"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.enter"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.enter"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.caps_lock"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.caps_lock"
+  },
+  {
+    "event": "key_pressed",
+    "key": "j"
+  },
+  {
+    "event": "key_released",
+    "key": "j"
+  },
+  {
+    "event": "key_pressed",
+    "key": "i"
+  },
+  {
+    "event": "key_released",
+    "key": "i"
+  },
+  {
+    "event": "key_pressed",
+    "key": "m"
+  },
+  {
+    "event": "key_released",
+    "key": "m"
+  },
+  {
+    "event": "key_pressed",
+    "key": "i"
+  },
+  {
+    "event": "key_released",
+    "key": "i"
+  },
+  {
+    "event": "key_pressed",
+    "key": "y"
+  },
+  {
+    "event": "key_released",
+    "key": "y"
+  },
+  {
+    "event": "key_pressed",
+    "key": "o"
+  },
+  {
+    "event": "key_released",
+    "key": "o"
+  },
+  {
+    "event": "key_pressed",
+    "key": "u"
+  },
+  {
+    "event": "key_released",
+    "key": "u"
+  },
+  {
+    "event": "key_pressed",
+    "key": "r"
+  },
+  {
+    "event": "key_released",
+    "key": "r"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_pressed",
+    "key": "a"
+  },
+  {
+    "event": "key_released",
+    "key": "a"
+  },
+  {
+    "event": "key_pressed",
+    "key": "r"
+  },
+  {
+    "event": "key_released",
+    "key": "r"
+  },
+  {
+    "event": "key_pressed",
+    "key": "e"
+  },
+  {
+    "event": "key_released",
+    "key": "e"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.space"
+  },
+  {
+    "event": "key_pressed",
+    "key": "h"
+  },
+  {
+    "event": "key_released",
+    "key": "h"
+  },
+  {
+    "event": "key_pressed",
+    "key": "a"
+  },
+  {
+    "event": "key_released",
+    "key": "a"
+  },
+  {
+    "event": "key_pressed",
+    "key": "c"
+  },
+  {
+    "event": "key_released",
+    "key": "c"
+  },
+  {
+    "event": "key_pressed",
+    "key": "k"
+  },
+  {
+    "event": "key_released",
+    "key": "k"
+  },
+  {
+    "event": "key_pressed",
+    "key": "e"
+  },
+  {
+    "event": "key_released",
+    "key": "e"
+  },
+  {
+    "event": "key_pressed",
+    "key": "d"
+  },
+  {
+    "event": "key_released",
+    "key": "d"
+  },
+  {
+    "event": "key_pressed",
+    "key": "Key.esc"
+  },
+  {
+    "event": "key_released",
+    "key": "Key.esc"
+  }
+]

@@ -1,0 +1,1 @@
+('W', 'Key.shift', 'h', 'a', 't', 'Key.space', 'i', 's', 'Key.space', 'Key.shift_r', 'k', 'e', 'y', 'Key.space', 'l', 'o', 'o', 'g', 'e', 'r', '`', 'Key.esc')
